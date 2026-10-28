@@ -1,7 +1,6 @@
 # InsightIQ
 
-An AI-powered business intelligence copilot combining
-LLMs, retrieval-augmented generation (RAG), and business analytics.
+An AI-powered business intelligence and research copilot combining LLMs, retrieval-augmented generation (RAG), and business analytics.
 
 ## Current Features
 
@@ -27,10 +26,11 @@ Python, Streamlit, Google Gemini API, ChromaDB, pandas, Plotly.
 
 1. Clone the repository.
 2. Create and activate a Python virtual environment.
-3. Install dependencies from requirements.txt.
+3. Install dependencies from `requirements.txt`.
 4. Create a `.env` file containing your `GEMINI_API_KEY`.
 5. Run `streamlit run app.py`.
 
 ## Project Status
 
 Under active development.
+
